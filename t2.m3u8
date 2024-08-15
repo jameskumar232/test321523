@@ -5,7 +5,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",TV3
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+https://port.yuvraj49.in/dd-150724/index.m3u8?id=5766
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=150&appID=TONTON",Drama Sangat
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
